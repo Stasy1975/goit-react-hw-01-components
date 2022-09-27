@@ -44,27 +44,26 @@
   padding: 0;
   display: flex;
   justify-content: space-between;
-
-  /* margin: 0 0 10px 0; */
   background-color: #f3f6f9;
 }
 .stat__item {
   width: 33%;
+  height: 50px;
+
   text-align: center;
   padding: 5px;
-  border: 1px solid;
-  border-color: #eaeef3;
+  border: 1px solid #3d02ff;
 }
 
 .label {
   display: block;
-  font-size: 10px;
+  font-size: 16px;
   margin-bottom: 5px;
   color: grey;
 }
 
 .quantity {
   display: block;
-  font-size: 12px;
+  font-size: 20px;
   font-weight: 600;
 }
