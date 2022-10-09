@@ -1,0 +1,9 @@
+.friendSections {
+  width: 1200px;
+  margin-top: 20px;
+}
+
+.friendList {
+  padding: 15px;
+  list-style: none;
+}

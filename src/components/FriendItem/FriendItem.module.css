@@ -1,0 +1,41 @@
+.statusOnline {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: rgb(109, 238, 109);
+  margin: 20px;
+}
+
+.inline {
+  width: 50px;
+  height: 50px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  background-color: rgb(136, 139, 136);
+}
+
+.item {
+  display: flex;
+  padding: 16px 0 16px;
+  color: #0e0d0d;
+  font-size: 30px;
+  margin-right: 20px;
+  border: thick double #32a1ce;
+}
+
+.avatar {
+  /* display: block; */
+  padding: 16px 0 16px;
+  margin-right: 20px;
+  margin-left: 20px;
+  width: 48px;
+  height: 48px;
+  justify-content: center;
+  align-items: center;
+}
